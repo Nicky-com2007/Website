@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: url(galax.jpg) no-repeat;
+  background-size: cover;
+
+}
+
+.box {
+  width: 450px;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 40px;
+  text-align: center;
+  margin: auto;
+  margin-top: 5%;
+  color: #ef962d;
+  font-family: 'Century Gothic',sans-serif;
+  }
+
+.box-img {
+  border-radius: 50%;
+  width: 200px; height: 200px;
+}
+
+.box2 {
+  width: 450px;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 40px;
+  text-align: center;
+  margin: auto;
+  margin-top: 5%;
+  color: #12947f;
+  font-family: 'Arial',sans-serif;
+}
